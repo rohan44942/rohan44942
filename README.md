@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my personal React projects <br>👯 I’m looking to collaborate  with react developers for some projects <br>🌱 I’m currently learning backend.<br>⚡ Fun fact- I often skip meals if I've had sweets just before.
+🔭 I’m currently working at care health insurance , gurgaon as jn SDE <br>👯 I’m looking to collaborate  with react developers for some projects <br>🌱 I’m currently learning backend.<br>⚡ Fun fact- I often skip meals if I've had sweets just before.
 
 
 ## 🌐 Socials:
